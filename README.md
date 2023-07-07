@@ -1,2 +1,2 @@
 # css-grid
-css grid property is shown
+css grid property is shown using media queries
